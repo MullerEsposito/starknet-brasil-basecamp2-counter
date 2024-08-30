@@ -3,6 +3,12 @@
 
 This is an onboarding project in Cairo Language to new Starknet smart contract developers.
 
+## Environment
+
+- scarb 2.6.5
+- starknet-devnet 0.1.2
+- starkli 0.3.4
+
 
 ## Environment Variables
 
@@ -50,12 +56,11 @@ In this project, you can use the password **1456** to invoke the functions.
 - [@MullerEsposito](https://www.github.com/MullerEsposito)
 
 
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
-
 ## Acknowledgements
 
  - [Preparando o Ambiente de Desenvolvimento Starknet](https://medium.com/starknet-in-brazil/preparando-ambiente-de-desenvolvimento-starknet-9e0663c1e0e5)
 
 ## 🛠 Skills
-Cairo Language d
+Cairo Language
 
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
